@@ -1,0 +1,34 @@
+body{
+    background-image:
+  url('https://static.vecteezy.com/system/resources/previews/000/151/791/non_2x/falling-numbers-matrix-background-vector.jpg');
+    background-size: 150vh;
+    font-family:Arial;
+    
+  }
+  .menu{
+    background-color: darkgreen;
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+  }
+  
+  a{
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .site-title,
+  .site-subtitle{
+    color: mediumseagreen;
+    text-align: center;
+  }
+  .site-subtitle,
+  .site-title{
+    font-style: italic;
+  }
